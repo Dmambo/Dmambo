@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Diaby Mohammed Ibrahim</h1>
 <h3 align="center">I am a passionate full stack developer</h3>
-<img align="right" alt="coding gif" width="400px" src="https://user-images.githubusercontent.com/110314309/208411516-d67f51e7-b710-4fe9-98fa-5e0ed6e7f8eb.png
+<img align="right" alt="coding gif" width="400px" src="![image](https://user-images.githubusercontent.com/110314309/208411882-8d5771fe-0f7d-4c0d-9017-4312c4b5cd52.png)
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmambo&label=Profile%20views&color=0e75b6&style=flat" alt="dmambo" /> </p>
