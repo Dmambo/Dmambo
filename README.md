@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmambo&label=Profile%20views&color=0e75b6&style=flat" alt="dmambo" /> </p>
 
-- 🌱 I’m currently learning **remote school that uses real-world projects to teach us about web development and also uses pair programming—having two people work on the same codebase at once—as a way for students to learn.**
+- 🌱 I’m currently learning **at remote school that uses real-world projects to teach us about web development and also uses pair programming—having two people work on the same codebase at once—as a way for students to learn.**
 
-- 💬 Ask me about **anything development**
+- 💬 Ask me about **anything web development**
 
-- 📫 How to reach me **ibkhalidworld@gmail.com**
+- 📫 Reach me at **ibkhalidworld@gmail.com**
 
-- ⚡ Fun fact **I am an Introvert and love puzzles and challenges**
+- ⚡ Fun fact, **I am an Introvert and love puzzles and challenges 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
