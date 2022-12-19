@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Diaby Mohammed Ibrahim</h1>
 <h3 align="center">I am a passionate full stack developer</h3>
