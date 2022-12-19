@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmambo&label=Profile%20views&color=0e75b6&style=flat" alt="dmambo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@kingibro345" target="blank"><img src="https://img.shields.io/twitter/follow/@kingibro345?logo=twitter&style=for-the-badge" alt="@kingibro345" /></a> </p>
-
 - 🌱 I’m currently learning **remote school that uses real-world projects to teach us about web development and also uses pair programming—having two people work on the same codebase at once—as a way for students to learn.**
 
 - 💬 Ask me about **anything development**
