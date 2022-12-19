@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Diaby Mohammed Ibrahim</h1>
 <h3 align="center">I am a passionate full stack developer</h3>
-<img align="right" alt="coding gif" width="400px" src="readme.gif">
+<img align="right" alt="coding gif" width="400px" src="./readme.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmambo&label=Profile%20views&color=0e75b6&style=flat" alt="dmambo" /> </p>
 
